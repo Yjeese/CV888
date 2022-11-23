@@ -63,3 +63,11 @@ tbody th {
   color: palegoldenrod;
   text-align: center;
 }
+
+footer {
+    background-color:rgb(5, 237, 67);
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
